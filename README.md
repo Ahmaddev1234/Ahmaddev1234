@@ -10,7 +10,7 @@
 ### 🔥 About Me
 
 - 🌱 I’m currently working on **eCommerce websites and AI-powered web apps**
-- 💬 Ask me about **React, Node.js, PHP, WordPress, and Laravel**
+- 💬 Ask me about **React, Node.js, WordPress
 - 📫 Reach me at: **ahmaddev1234@gmail.com**
 - ⚡ Fun fact: I can code faster when chai is involved ☕
 
